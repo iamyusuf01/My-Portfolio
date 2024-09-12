@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/iamyusuf01/My-Portfolio/static/css/main.8032658d.css",
+    "main.js": "/iamyusuf01/My-Portfolio/static/js/main.b73fa620.js",
+    "index.html": "/iamyusuf01/My-Portfolio/index.html",
+    "main.8032658d.css.map": "/iamyusuf01/My-Portfolio/static/css/main.8032658d.css.map",
+    "main.b73fa620.js.map": "/iamyusuf01/My-Portfolio/static/js/main.b73fa620.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8032658d.css",
+    "static/js/main.b73fa620.js"
+  ]
+}
