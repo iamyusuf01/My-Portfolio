@@ -2,7 +2,6 @@ import Header from "./Componenets/Header";
 import Footer from "./Componenets/Footer";
 import Home from "./Componenets/Home";
 import About from "./Componenets/About";
-import Skills from "./Componenets/Skills";
 import Projects from "./Componenets/Projects";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Contact from "./Componenets/Contact";
